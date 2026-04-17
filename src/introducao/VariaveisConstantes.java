@@ -17,7 +17,8 @@ public class VariaveisConstantes {
 		final String TURMA = "Turma 84";
 		final double ÁREA = 3.1415;
 		
-		
+		System.out.println (QUANTIDADE);
+		System.out.print (nome);
 		
 		
 	}
