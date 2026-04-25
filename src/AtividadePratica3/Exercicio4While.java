@@ -56,6 +56,5 @@ public class Exercicio4While {
             System.out.println("Média de idade: " + (somaIdade / (float) total));
         }
 
-        leia.close();
     }
 }
